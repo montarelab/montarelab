@@ -48,8 +48,7 @@ An AI-powered solver for the Kakuro puzzle game, using Depth-First Search (DFS) 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dmitriy-tkachenko-fullstack-master/)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail)](mailto:montare.business@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/dmitriy-tkachenko-fullstack-master/)  [![Email](https://img.shields.io/badge/Email-blue?style=flat-square)](mailto:montare.business@gmail.com)
 
 ---
 
