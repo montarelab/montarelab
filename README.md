@@ -1,4 +1,4 @@
-# Hi there, I'm montare 
+# Hi there
 
 
 I am a passionate developer with a strong focus on event-driven distributed microservices and AI-powered solutions. I love working with a variety of technologies and constantly strive to learn new skills and improve my existing ones.
